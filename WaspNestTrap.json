@@ -1,0 +1,15 @@
+{
+  "id": "e07d1b9e059de1efe60245f40",
+  "tags": [],
+  "name": "Wasp Nest Trap",
+  "type": "hazard",
+  "level": 3,
+  "traits": "Environmental, SImple, trap",
+  "actions": "",
+  "body": "Complexity Simple\nStealth DC 12\nDescription The ball of mud on the bow is a wasp nest. Although the nest can be avoided physically, it’s attached to the vines that grow on the gangplank, and rigged to detach from the railing soon after one person ascends.\n-\nDisable DC 18 Survival (trained) to carefully approach and cut the vines rigged to detach the railing without triggering the wasp nest\nAC 12, Fort +8, Ref +2\nHP 12 <b>Weakness</b> fire 5\nRelease the Wasps (R) Trigger A creature steps on the gangplank; Effect The vines tighten and cause the wasp nest to fall, releasing a weak wasp swarm.",
+  "plain": 0,
+  "meta": {
+    "public": 1,
+    "url": "XOSmzxqW"
+  }
+}
